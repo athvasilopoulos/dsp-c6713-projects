@@ -1,0 +1,2 @@
+# Voice Echo Effect
+In this project, I use the AIC23 Codec peripheral to receive sound input and then produce an output with the echo effect. The delay of the echo is chosen with the onboard switches(up to 4 seconds) and a volume bargraph is created with the onboard leds. The project is written in C, using the DSKC6713 libraries from TI. 

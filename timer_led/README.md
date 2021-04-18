@@ -1,0 +1,2 @@
+# Timer and LED
+In this project, I use the the onboard timer to turn on and off an onboard led. The timer is configured to send an interrupt(TINT0) with a period of 1 second and the Interrupt Service Routine (ISR) changes the state of the 2nd onboard led.

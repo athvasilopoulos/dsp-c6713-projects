@@ -1,0 +1,2 @@
+# DSP C6713 Applications
+This repository contains several projects developed for the TI C6713 DSP board. The projects are developed in assembly or C in the TI's Code Composer Studio and they were tested on the board, during the lab exercises of the Digital Signal Processing course. A short description about each project can be found inside the corresponding folder.
