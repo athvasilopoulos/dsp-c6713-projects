@@ -1,0 +1,2 @@
+# DTFM Decoder
+In this project, I created a Dual-Tone Multi-Frequency(DTFM) decoder, to translate the DTFM sound to a character. To analyse the spectrum I used the Goertzel algorithm with fixed point arithmetic. To get the DTFM input, the AIC23 Codec was used.
