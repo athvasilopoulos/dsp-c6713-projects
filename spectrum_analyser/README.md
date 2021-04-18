@@ -1,0 +1,2 @@
+# Spectrum Analyser
+This project implements a real-time spectrum analyser using FFT, on the C6713 DSP. For the FFT operations, I use the TI library and specifically the implementation of the Complex Forward FFT along with the needed helping algorithms, such as the Complex Bit-Reverse algorithm. For the input, I use the AIC23 Codec.
